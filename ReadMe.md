@@ -1,4 +1,4 @@
-#pip install -q transformers
+#pip install -q transformers\n
 #pip install requests scikit-learn
 #pip install langchain -U
 #pip install torch -q
