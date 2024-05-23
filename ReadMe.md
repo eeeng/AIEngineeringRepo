@@ -1,4 +1,6 @@
-#pip install -q transformers\n
+Uygulama metin üretme(text-generate) denemesini içerir..
+
+#pip install -q transformers
 #pip install requests scikit-learn
 #pip install langchain -U
 #pip install torch -q
