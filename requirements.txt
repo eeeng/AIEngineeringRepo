@@ -1,0 +1,8 @@
+googlesearch-python
+scikit-learn
+requests
+nltk
+langchain
+langchain-community
+lanchain-all
+transformers 
