@@ -1,8 +1,0 @@
-# Syntax Coloring Map For Easyiot-Esp8266
-
-# Datatypes (KEYWORD1)
-
-# Methods and Functions (KEYWORD2)
-SNTP	KEYWORD2
-send    KEYWORD2
-Json    KEYWORD2
