@@ -1,1 +1,1 @@
-os.environ["SERPAPI_API_KEY] = "c715bd361c9dafbff73b350b52026fe40b90a5d7d38b8ca31c3619b714009356"
+os.environ["SERPAPI_API_KEY] = "your- serpapi-key"
